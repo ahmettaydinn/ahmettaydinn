@@ -8,7 +8,7 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&line_height=27)<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="220" />
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&line_height=29)<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="220" />
 
 <!--
 **BAVI-BOOP/BAVI-BOOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
