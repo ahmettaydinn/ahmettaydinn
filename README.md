@@ -7,10 +7,15 @@
  
 ![MarineGEO circle logo](intro-pic.png "Ahmet Aydın")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&border_radius=40&line_height=39) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&border_radius=40&line_height=30) 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=birceste)](https://github.com/gazf/github-readme-twitter)
 
-
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 <!--
 **BAVI-BOOP/BAVI-BOOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
