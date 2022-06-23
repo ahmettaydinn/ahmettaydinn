@@ -6,7 +6,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=birceste)](https://github.com/gazf/github-readme-twitter?style=position=relative&bottom=50px&left=300px)
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=birceste)](https://github.com/gazf/github-readme-twitter?style=position=relative&bottom=500px&left=300px)
 
 <!--
 **BAVI-BOOP/BAVI-BOOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
