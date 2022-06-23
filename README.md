@@ -1,5 +1,5 @@
 ### Hi there 👋
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+![MarineGEO circle logo](intro-pic.png "Ahmet Aydın")
 <!--
 **BAVI-BOOP/BAVI-BOOP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
