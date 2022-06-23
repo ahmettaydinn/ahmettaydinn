@@ -7,7 +7,7 @@
  
 ![MarineGEO circle logo](intro-pic.png "Ahmet Aydın")
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&border_radius=40&line_height=30)<span hidden>hahahahhahahahahh</span> [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=birceste)](https://github.com/gazf/github-readme-twitter)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&border_radius=40&line_height=30)<span <span hidden="hidden">>hahahahhahahahahh</span> [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=birceste)](https://github.com/gazf/github-readme-twitter)
 
 
 <!--
