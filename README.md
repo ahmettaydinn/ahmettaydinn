@@ -1,5 +1,5 @@
 ![MarineGEO circle logo](intro-pic.png "Ahmet Aydın")
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&border_radius=40%)    [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=birceste)](https://github.com/gazf/github-readme-twitter)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&border_radius=40&margin-right=50px)    [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=birceste)](https://github.com/gazf/github-readme-twitter)
 
 #####            My Programming portfolio👨‍💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
