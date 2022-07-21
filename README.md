@@ -7,9 +7,7 @@
 <img  src="./intro-pic.png" alt="Ahmet Aydın" width="745">
 
 
-<div style="height:100px;>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&line_height=29)
-<div>
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="250" height="220" />
 
 <!--
