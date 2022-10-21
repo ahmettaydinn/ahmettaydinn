@@ -9,6 +9,6 @@
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BAVI-BOOP&show_icons=true&theme=tokyonight&count_private=true&line_height=29)
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="230" height="200" />
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="230" height="220" />
 
 
