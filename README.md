@@ -1,4 +1,4 @@
-### My Programming portfolio
+### My Portfolio
 
 <p align="left">
   <a href="https://github.com/ahmettaydinn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> </a>
