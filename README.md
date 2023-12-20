@@ -11,5 +11,6 @@
   <a href="https://github.com/ahmettaydinn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>
   <a href="https://github.com/ahmettaydinn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a>
   <a href="https://github.com/ahmettaydinn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
-
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmettaydinn)](https://git.io/streak-stats)
