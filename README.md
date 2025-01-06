@@ -12,9 +12,6 @@
   <a href="https://github.com/ahmettaydinn" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-### Challenge👨‍💻
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ahmettaydinn)](https://git.io/streak-stats)
 
 ### Connect with me on
 
